@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kkch\source\repos\1107\1107\main.cpp(38,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkch\source\repos\1107\1107\main.cpp(54,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1107.vcxproj -> C:\Users\kkch\source\repos\1107\Debug\1107.exe
